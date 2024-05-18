@@ -171,6 +171,12 @@ section {
   height: 80vh;
 }
 
+#name_text{
+  font-size: 4rem;
+  /* font-weight: 600; */
+  /* text-align: center; */
+}
+
 .section__pic-container {
   display: flex;
   height: 400px;

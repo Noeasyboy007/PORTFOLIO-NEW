@@ -9,6 +9,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
+  background-color: #f3eebc;
 }
 
 html {
@@ -18,7 +19,7 @@ html {
 }
 
 p {
-  color: rgb(85, 85, 85);
+  color: rgb(82, 80, 80);
 }
 
 /* TRANSITION */
@@ -173,8 +174,6 @@ section {
 
 #name_text{
   font-size: 4rem;
-  /* font-weight: 600; */
-  /* text-align: center; */
 }
 
 .section__pic-container {
